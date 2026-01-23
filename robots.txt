@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://saragv06.github.io/latinaduanas.github.io/sitemap.xml
+Sitemap: https://latinaduanas.pages.dev/sitemap.xml
